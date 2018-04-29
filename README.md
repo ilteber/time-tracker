@@ -1,7 +1,7 @@
 # time-tracker
 Java (Maven) application for tracking time on the job
 
-CS453 is THE BEST COURSE
+CS453 is THE BEST COURSE.
 
 
 ## Purpose
